@@ -1,2 +1,2 @@
-# flex-site
- Site criado utilizando FlexBox para portfólio
+# FlexBlog
+ Site criado durante o curso de Flexbox da Origamid.
